@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-04-28T09:54:06.788Z",
       "id": 5
+    },
+    {
+      "description": "FullCycle",
+      "price": 3500,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2023-05-01T08:08:40.154Z",
+      "id": 6
     }
   ]
 }
